@@ -1,0 +1,53 @@
+
+{
+	"buildFiles" : 
+	[
+		"C:/Users/matth/Documents/Undergraduates/Y2S3/mycardboard/hellocardboard-android/CMakeLists.txt"
+	],
+	"cleanCommands" : 
+	[
+		"C:\\Users\\matth\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\mycardboard\\hellocardboard-android\\.externalNativeBuild\\cmake\\release\\armeabi-v7a --target clean"
+	],
+	"cppFileExtensions" : [ "cc" ],
+	"libraries" : 
+	{
+		"cardboard_jni-Release-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "cardboard_jni",
+			"buildCommand" : "C:\\Users\\matth\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\mycardboard\\hellocardboard-android\\.externalNativeBuild\\cmake\\release\\armeabi-v7a --target cardboard_jni",
+			"buildType" : "release",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi19 --gcc-toolchain=C:/Users/matth/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/matth/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_jni_EXPORTS -I..\\..\\..\\..\\libraries  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -Oz -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/matth/Documents/Undergraduates/Y2S3/mycardboard/hellocardboard-android/src/main/jni/hello_cardboard_app.cc",
+					"workingDirectory" : "C:/Users/matth/Documents/Undergraduates/Y2S3/mycardboard/hellocardboard-android/.externalNativeBuild/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi19 --gcc-toolchain=C:/Users/matth/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/matth/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_jni_EXPORTS -I..\\..\\..\\..\\libraries  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -Oz -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/matth/Documents/Undergraduates/Y2S3/mycardboard/hellocardboard-android/src/main/jni/hello_cardboard_jni.cc",
+					"workingDirectory" : "C:/Users/matth/Documents/Undergraduates/Y2S3/mycardboard/hellocardboard-android/.externalNativeBuild/cmake/release/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi19 --gcc-toolchain=C:/Users/matth/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/matth/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_jni_EXPORTS -I..\\..\\..\\..\\libraries  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -Oz -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/Users/matth/Documents/Undergraduates/Y2S3/mycardboard/hellocardboard-android/src/main/jni/util.cc",
+					"workingDirectory" : "C:/Users/matth/Documents/Undergraduates/Y2S3/mycardboard/hellocardboard-android/.externalNativeBuild/cmake/release/armeabi-v7a"
+				}
+			],
+			"output" : "C:/Users/matth/Documents/Undergraduates/Y2S3/mycardboard/hellocardboard-android/build/intermediates/cmake/release/obj/armeabi-v7a/libcardboard_jni.so",
+			"toolchain" : "3235822201"
+		}
+	},
+	"toolchains" : 
+	{
+		"3235822201" : 
+		{
+			"cCompilerExecutable" : "C:/Users/matth/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+			"cppCompilerExecutable" : "C:/Users/matth/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe"
+		}
+	}
+}

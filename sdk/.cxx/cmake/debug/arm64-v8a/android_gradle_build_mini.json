@@ -1,0 +1,34 @@
+{
+  "buildFiles": [
+    "C:\\Users\\matth\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\matth\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\build\\cmake\\platforms.cmake",
+    "C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\VREXP\\extra\\mycardboard1\\sdk\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\matth\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\VREXP\\extra\\mycardboard1\\sdk\\.cxx\\cmake\\debug\\arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\matth\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\VREXP\\extra\\mycardboard1\\sdk\\.cxx\\cmake\\debug\\arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "cardboard_xr_unity-Debug-arm64-v8a": {
+      "artifactName": "cardboard_xr_unity",
+      "buildCommand": "C:\\Users\\matth\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\VREXP\\extra\\mycardboard1\\sdk\\.cxx\\cmake\\debug\\arm64-v8a\" cardboard_xr_unity",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\VREXP\\extra\\mycardboard1\\sdk\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a\\libcardboard_xr_unity.so",
+      "runtimeFiles": []
+    },
+    "cardboard_unity_jni-Debug-arm64-v8a": {
+      "artifactName": "cardboard_unity_jni",
+      "buildCommand": "C:\\Users\\matth\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\VREXP\\extra\\mycardboard1\\sdk\\.cxx\\cmake\\debug\\arm64-v8a\" cardboard_unity_jni",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\VREXP\\extra\\mycardboard1\\sdk\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a\\libcardboard_unity_jni.so",
+      "runtimeFiles": []
+    },
+    "cardboard_api-Debug-arm64-v8a": {
+      "artifactName": "cardboard_api",
+      "buildCommand": "C:\\Users\\matth\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\VREXP\\extra\\mycardboard1\\sdk\\.cxx\\cmake\\debug\\arm64-v8a\" cardboard_api",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\VREXP\\extra\\mycardboard1\\sdk\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a\\libcardboard_api.so",
+      "runtimeFiles": []
+    }
+  }
+}

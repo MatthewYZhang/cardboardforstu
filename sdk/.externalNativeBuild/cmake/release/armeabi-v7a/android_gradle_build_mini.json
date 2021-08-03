@@ -1,0 +1,28 @@
+{
+  "buildFiles": [
+    "C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\mycardboard\\sdk\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\matth\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\mycardboard\\sdk\\.externalNativeBuild\\cmake\\release\\armeabi-v7a --target clean"
+  ],
+  "libraries": {
+    "cardboard_unity_jni-Release-armeabi-v7a": {
+      "artifactName": "cardboard_unity_jni",
+      "buildCommand": "C:\\Users\\matth\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\mycardboard\\sdk\\.externalNativeBuild\\cmake\\release\\armeabi-v7a --target cardboard_unity_jni",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\mycardboard\\sdk\\build\\intermediates\\cmake\\release\\obj\\armeabi-v7a\\libcardboard_unity_jni.so"
+    },
+    "cardboard_api-Release-armeabi-v7a": {
+      "artifactName": "cardboard_api",
+      "buildCommand": "C:\\Users\\matth\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\mycardboard\\sdk\\.externalNativeBuild\\cmake\\release\\armeabi-v7a --target cardboard_api",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\mycardboard\\sdk\\build\\intermediates\\cmake\\release\\obj\\armeabi-v7a\\libcardboard_api.so"
+    },
+    "cardboard_xr_unity-Release-armeabi-v7a": {
+      "artifactName": "cardboard_xr_unity",
+      "buildCommand": "C:\\Users\\matth\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\mycardboard\\sdk\\.externalNativeBuild\\cmake\\release\\armeabi-v7a --target cardboard_xr_unity",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\mycardboard\\sdk\\build\\intermediates\\cmake\\release\\obj\\armeabi-v7a\\libcardboard_xr_unity.so"
+    }
+  }
+}

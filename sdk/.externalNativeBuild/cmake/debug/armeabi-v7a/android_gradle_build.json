@@ -1,0 +1,227 @@
+
+{
+	"buildFiles" : 
+	[
+		"C:/Users/matth/Documents/Undergraduates/Y2S3/mycardboard/sdk/CMakeLists.txt"
+	],
+	"cleanCommands" : 
+	[
+		"C:\\Users\\matth\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\mycardboard\\sdk\\.externalNativeBuild\\cmake\\debug\\armeabi-v7a --target clean"
+	],
+	"cppFileExtensions" : [ "cc" ],
+	"libraries" : 
+	{
+		"cardboard_api-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "cardboard_api",
+			"buildCommand" : "C:\\Users\\matth\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\mycardboard\\sdk\\.externalNativeBuild\\cmake\\debug\\armeabi-v7a --target cardboard_api",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi19 --gcc-toolchain=C:/Users/matth/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/matth/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_api_EXPORTS -I..\\..\\..\\..\\. -I\\libprotobuf\\android\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/Users/matth/Documents/Undergraduates/Y2S3/mycardboard/sdk/qrcode/cardboard_v1/cardboard_v1.cc",
+					"workingDirectory" : "C:/Users/matth/Documents/Undergraduates/Y2S3/mycardboard/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi19 --gcc-toolchain=C:/Users/matth/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/matth/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_api_EXPORTS -I..\\..\\..\\..\\. -I\\libprotobuf\\android\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/Users/matth/Documents/Undergraduates/Y2S3/mycardboard/sdk/cardboard.cc",
+					"workingDirectory" : "C:/Users/matth/Documents/Undergraduates/Y2S3/mycardboard/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi19 --gcc-toolchain=C:/Users/matth/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/matth/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_api_EXPORTS -I..\\..\\..\\..\\. -I\\libprotobuf\\android\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/Users/matth/Documents/Undergraduates/Y2S3/mycardboard/sdk/distortion_mesh.cc",
+					"workingDirectory" : "C:/Users/matth/Documents/Undergraduates/Y2S3/mycardboard/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi19 --gcc-toolchain=C:/Users/matth/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/matth/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_api_EXPORTS -I..\\..\\..\\..\\. -I\\libprotobuf\\android\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/Users/matth/Documents/Undergraduates/Y2S3/mycardboard/sdk/distortion_renderer.cc",
+					"workingDirectory" : "C:/Users/matth/Documents/Undergraduates/Y2S3/mycardboard/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi19 --gcc-toolchain=C:/Users/matth/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/matth/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_api_EXPORTS -I..\\..\\..\\..\\. -I\\libprotobuf\\android\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/Users/matth/Documents/Undergraduates/Y2S3/mycardboard/sdk/head_tracker.cc",
+					"workingDirectory" : "C:/Users/matth/Documents/Undergraduates/Y2S3/mycardboard/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi19 --gcc-toolchain=C:/Users/matth/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/matth/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_api_EXPORTS -I..\\..\\..\\..\\. -I\\libprotobuf\\android\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/Users/matth/Documents/Undergraduates/Y2S3/mycardboard/sdk/lens_distortion.cc",
+					"workingDirectory" : "C:/Users/matth/Documents/Undergraduates/Y2S3/mycardboard/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi19 --gcc-toolchain=C:/Users/matth/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/matth/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_api_EXPORTS -I..\\..\\..\\..\\. -I\\libprotobuf\\android\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/Users/matth/Documents/Undergraduates/Y2S3/mycardboard/sdk/polynomial_radial_distortion.cc",
+					"workingDirectory" : "C:/Users/matth/Documents/Undergraduates/Y2S3/mycardboard/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi19 --gcc-toolchain=C:/Users/matth/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/matth/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_api_EXPORTS -I..\\..\\..\\..\\. -I\\libprotobuf\\android\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/Users/matth/Documents/Undergraduates/Y2S3/mycardboard/sdk/sensors/gyroscope_bias_estimator.cc",
+					"workingDirectory" : "C:/Users/matth/Documents/Undergraduates/Y2S3/mycardboard/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi19 --gcc-toolchain=C:/Users/matth/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/matth/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_api_EXPORTS -I..\\..\\..\\..\\. -I\\libprotobuf\\android\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/Users/matth/Documents/Undergraduates/Y2S3/mycardboard/sdk/sensors/lowpass_filter.cc",
+					"workingDirectory" : "C:/Users/matth/Documents/Undergraduates/Y2S3/mycardboard/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi19 --gcc-toolchain=C:/Users/matth/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/matth/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_api_EXPORTS -I..\\..\\..\\..\\. -I\\libprotobuf\\android\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/Users/matth/Documents/Undergraduates/Y2S3/mycardboard/sdk/sensors/mean_filter.cc",
+					"workingDirectory" : "C:/Users/matth/Documents/Undergraduates/Y2S3/mycardboard/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi19 --gcc-toolchain=C:/Users/matth/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/matth/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_api_EXPORTS -I..\\..\\..\\..\\. -I\\libprotobuf\\android\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/Users/matth/Documents/Undergraduates/Y2S3/mycardboard/sdk/sensors/median_filter.cc",
+					"workingDirectory" : "C:/Users/matth/Documents/Undergraduates/Y2S3/mycardboard/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi19 --gcc-toolchain=C:/Users/matth/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/matth/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_api_EXPORTS -I..\\..\\..\\..\\. -I\\libprotobuf\\android\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/Users/matth/Documents/Undergraduates/Y2S3/mycardboard/sdk/sensors/neck_model.cc",
+					"workingDirectory" : "C:/Users/matth/Documents/Undergraduates/Y2S3/mycardboard/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi19 --gcc-toolchain=C:/Users/matth/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/matth/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_api_EXPORTS -I..\\..\\..\\..\\. -I\\libprotobuf\\android\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/Users/matth/Documents/Undergraduates/Y2S3/mycardboard/sdk/sensors/pose_prediction.cc",
+					"workingDirectory" : "C:/Users/matth/Documents/Undergraduates/Y2S3/mycardboard/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi19 --gcc-toolchain=C:/Users/matth/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/matth/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_api_EXPORTS -I..\\..\\..\\..\\. -I\\libprotobuf\\android\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/Users/matth/Documents/Undergraduates/Y2S3/mycardboard/sdk/sensors/sensor_fusion_ekf.cc",
+					"workingDirectory" : "C:/Users/matth/Documents/Undergraduates/Y2S3/mycardboard/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi19 --gcc-toolchain=C:/Users/matth/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/matth/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_api_EXPORTS -I..\\..\\..\\..\\. -I\\libprotobuf\\android\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/Users/matth/Documents/Undergraduates/Y2S3/mycardboard/sdk/sensors/android/device_accelerometer_sensor.cc",
+					"workingDirectory" : "C:/Users/matth/Documents/Undergraduates/Y2S3/mycardboard/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi19 --gcc-toolchain=C:/Users/matth/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/matth/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_api_EXPORTS -I..\\..\\..\\..\\. -I\\libprotobuf\\android\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/Users/matth/Documents/Undergraduates/Y2S3/mycardboard/sdk/sensors/android/device_gyroscope_sensor.cc",
+					"workingDirectory" : "C:/Users/matth/Documents/Undergraduates/Y2S3/mycardboard/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi19 --gcc-toolchain=C:/Users/matth/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/matth/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_api_EXPORTS -I..\\..\\..\\..\\. -I\\libprotobuf\\android\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/Users/matth/Documents/Undergraduates/Y2S3/mycardboard/sdk/sensors/android/sensor_event_producer.cc",
+					"workingDirectory" : "C:/Users/matth/Documents/Undergraduates/Y2S3/mycardboard/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi19 --gcc-toolchain=C:/Users/matth/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/matth/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_api_EXPORTS -I..\\..\\..\\..\\. -I\\libprotobuf\\android\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/Users/matth/Documents/Undergraduates/Y2S3/mycardboard/sdk/jni_utils/android/jni_utils.cc",
+					"workingDirectory" : "C:/Users/matth/Documents/Undergraduates/Y2S3/mycardboard/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi19 --gcc-toolchain=C:/Users/matth/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/matth/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_api_EXPORTS -I..\\..\\..\\..\\. -I\\libprotobuf\\android\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/Users/matth/Documents/Undergraduates/Y2S3/mycardboard/sdk/util/matrix_3x3.cc",
+					"workingDirectory" : "C:/Users/matth/Documents/Undergraduates/Y2S3/mycardboard/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi19 --gcc-toolchain=C:/Users/matth/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/matth/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_api_EXPORTS -I..\\..\\..\\..\\. -I\\libprotobuf\\android\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/Users/matth/Documents/Undergraduates/Y2S3/mycardboard/sdk/util/matrix_4x4.cc",
+					"workingDirectory" : "C:/Users/matth/Documents/Undergraduates/Y2S3/mycardboard/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi19 --gcc-toolchain=C:/Users/matth/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/matth/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_api_EXPORTS -I..\\..\\..\\..\\. -I\\libprotobuf\\android\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/Users/matth/Documents/Undergraduates/Y2S3/mycardboard/sdk/util/matrixutils.cc",
+					"workingDirectory" : "C:/Users/matth/Documents/Undergraduates/Y2S3/mycardboard/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi19 --gcc-toolchain=C:/Users/matth/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/matth/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_api_EXPORTS -I..\\..\\..\\..\\. -I\\libprotobuf\\android\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/Users/matth/Documents/Undergraduates/Y2S3/mycardboard/sdk/util/rotation.cc",
+					"workingDirectory" : "C:/Users/matth/Documents/Undergraduates/Y2S3/mycardboard/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi19 --gcc-toolchain=C:/Users/matth/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/matth/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_api_EXPORTS -I..\\..\\..\\..\\. -I\\libprotobuf\\android\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/Users/matth/Documents/Undergraduates/Y2S3/mycardboard/sdk/util/vectorutils.cc",
+					"workingDirectory" : "C:/Users/matth/Documents/Undergraduates/Y2S3/mycardboard/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi19 --gcc-toolchain=C:/Users/matth/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/matth/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_api_EXPORTS -I..\\..\\..\\..\\. -I\\libprotobuf\\android\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/Users/matth/Documents/Undergraduates/Y2S3/mycardboard/sdk/qrcode/android/qr_code.cc",
+					"workingDirectory" : "C:/Users/matth/Documents/Undergraduates/Y2S3/mycardboard/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi19 --gcc-toolchain=C:/Users/matth/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/matth/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_api_EXPORTS -I..\\..\\..\\..\\. -I\\libprotobuf\\android\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/Users/matth/Documents/Undergraduates/Y2S3/mycardboard/sdk/screen_params/android/screen_params.cc",
+					"workingDirectory" : "C:/Users/matth/Documents/Undergraduates/Y2S3/mycardboard/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi19 --gcc-toolchain=C:/Users/matth/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/matth/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_api_EXPORTS -I..\\..\\..\\..\\. -I\\libprotobuf\\android\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/Users/matth/Documents/Undergraduates/Y2S3/mycardboard/sdk/device_params/android/device_params.cc",
+					"workingDirectory" : "C:/Users/matth/Documents/Undergraduates/Y2S3/mycardboard/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a"
+				}
+			],
+			"output" : "C:/Users/matth/Documents/Undergraduates/Y2S3/mycardboard/sdk/build/intermediates/cmake/debug/obj/armeabi-v7a/libcardboard_api.so",
+			"toolchain" : "3235822201"
+		},
+		"cardboard_unity_jni-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "cardboard_unity_jni",
+			"buildCommand" : "C:\\Users\\matth\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\mycardboard\\sdk\\.externalNativeBuild\\cmake\\debug\\armeabi-v7a --target cardboard_unity_jni",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi19 --gcc-toolchain=C:/Users/matth/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/matth/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_unity_jni_EXPORTS -I..\\..\\..\\..\\.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/Users/matth/Documents/Undergraduates/Y2S3/mycardboard/sdk/unity/android/unity_jni.cc",
+					"workingDirectory" : "C:/Users/matth/Documents/Undergraduates/Y2S3/mycardboard/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a"
+				}
+			],
+			"output" : "C:/Users/matth/Documents/Undergraduates/Y2S3/mycardboard/sdk/build/intermediates/cmake/debug/obj/armeabi-v7a/libcardboard_unity_jni.so",
+			"toolchain" : "3235822201"
+		},
+		"cardboard_xr_unity-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "cardboard_xr_unity",
+			"buildCommand" : "C:\\Users\\matth\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\mycardboard\\sdk\\.externalNativeBuild\\cmake\\debug\\armeabi-v7a --target cardboard_xr_unity",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi19 --gcc-toolchain=C:/Users/matth/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/matth/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_xr_unity_EXPORTS -I..\\..\\..\\..\\.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/Users/matth/Documents/Undergraduates/Y2S3/mycardboard/sdk/unity/xr_unity_plugin/cardboard_xr_unity.cc",
+					"workingDirectory" : "C:/Users/matth/Documents/Undergraduates/Y2S3/mycardboard/sdk/.externalNativeBuild/cmake/debug/armeabi-v7a"
+				}
+			],
+			"output" : "C:/Users/matth/Documents/Undergraduates/Y2S3/mycardboard/sdk/build/intermediates/cmake/debug/obj/armeabi-v7a/libcardboard_xr_unity.so",
+			"toolchain" : "3235822201"
+		}
+	},
+	"toolchains" : 
+	{
+		"3235822201" : 
+		{
+			"cCompilerExecutable" : "C:/Users/matth/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+			"cppCompilerExecutable" : "C:/Users/matth/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe"
+		}
+	}
+}

@@ -1,0 +1,204 @@
+{
+  "stringTable": {
+    "0": "C:/Users/matth/Documents/Undergraduates/Y2S3/VREXP/extra/mycardboard1/sdk/.cxx/cmake/release/arm64-v8a",
+    "1": "--target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/matth/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/matth/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dcardboard_xr_unity_EXPORTS -I../../../../. -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -std=c++11 -O2 -DNDEBUG -fPIC",
+    "2": "--target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/matth/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/matth/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dcardboard_api_EXPORTS -I../../../../. -I/libprotobuf/android/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -std=c++11 -O2 -DNDEBUG -fPIC",
+    "3": "--target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/matth/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/matth/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dcardboard_unity_jni_EXPORTS -I../../../../. -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -std=c++11 -O2 -DNDEBUG -fPIC"
+  },
+  "buildFiles": [
+    "C:\\Users\\matth\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\matth\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\build\\cmake\\platforms.cmake",
+    "C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\VREXP\\extra\\mycardboard1\\sdk\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\matth\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\VREXP\\extra\\mycardboard1\\sdk\\.cxx\\cmake\\release\\arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\matth\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\VREXP\\extra\\mycardboard1\\sdk\\.cxx\\cmake\\release\\arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "cardboard_api-Release-arm64-v8a": {
+      "buildCommand": "C:\\Users\\matth\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\VREXP\\extra\\mycardboard1\\sdk\\.cxx\\cmake\\release\\arm64-v8a\" cardboard_api",
+      "buildType": "release",
+      "toolchain": "3490377905",
+      "abi": "arm64-v8a",
+      "artifactName": "cardboard_api",
+      "files": [
+        {
+          "src": "C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\VREXP\\extra\\mycardboard1\\sdk\\qrcode\\cardboard_v1\\cardboard_v1.cc",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\VREXP\\extra\\mycardboard1\\sdk\\cardboard.cc",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\VREXP\\extra\\mycardboard1\\sdk\\distortion_mesh.cc",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\VREXP\\extra\\mycardboard1\\sdk\\distortion_renderer.cc",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\VREXP\\extra\\mycardboard1\\sdk\\head_tracker.cc",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\VREXP\\extra\\mycardboard1\\sdk\\lens_distortion.cc",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\VREXP\\extra\\mycardboard1\\sdk\\polynomial_radial_distortion.cc",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\VREXP\\extra\\mycardboard1\\sdk\\sensors\\gyroscope_bias_estimator.cc",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\VREXP\\extra\\mycardboard1\\sdk\\sensors\\lowpass_filter.cc",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\VREXP\\extra\\mycardboard1\\sdk\\sensors\\mean_filter.cc",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\VREXP\\extra\\mycardboard1\\sdk\\sensors\\median_filter.cc",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\VREXP\\extra\\mycardboard1\\sdk\\sensors\\neck_model.cc",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\VREXP\\extra\\mycardboard1\\sdk\\sensors\\pose_prediction.cc",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\VREXP\\extra\\mycardboard1\\sdk\\sensors\\sensor_fusion_ekf.cc",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\VREXP\\extra\\mycardboard1\\sdk\\sensors\\android\\device_accelerometer_sensor.cc",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\VREXP\\extra\\mycardboard1\\sdk\\sensors\\android\\device_gyroscope_sensor.cc",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\VREXP\\extra\\mycardboard1\\sdk\\sensors\\android\\sensor_event_producer.cc",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\VREXP\\extra\\mycardboard1\\sdk\\jni_utils\\android\\jni_utils.cc",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\VREXP\\extra\\mycardboard1\\sdk\\util\\matrix_3x3.cc",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\VREXP\\extra\\mycardboard1\\sdk\\util\\matrix_4x4.cc",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\VREXP\\extra\\mycardboard1\\sdk\\util\\matrixutils.cc",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\VREXP\\extra\\mycardboard1\\sdk\\util\\rotation.cc",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\VREXP\\extra\\mycardboard1\\sdk\\util\\vectorutils.cc",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\VREXP\\extra\\mycardboard1\\sdk\\qrcode\\android\\qr_code.cc",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\VREXP\\extra\\mycardboard1\\sdk\\screen_params\\android\\screen_params.cc",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\VREXP\\extra\\mycardboard1\\sdk\\device_params\\android\\device_params.cc",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\VREXP\\extra\\mycardboard1\\sdk\\build\\intermediates\\cmake\\release\\obj\\arm64-v8a\\libcardboard_api.so",
+      "runtimeFiles": []
+    },
+    "cardboard_xr_unity-Release-arm64-v8a": {
+      "buildCommand": "C:\\Users\\matth\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\VREXP\\extra\\mycardboard1\\sdk\\.cxx\\cmake\\release\\arm64-v8a\" cardboard_xr_unity",
+      "buildType": "release",
+      "toolchain": "3490377905",
+      "abi": "arm64-v8a",
+      "artifactName": "cardboard_xr_unity",
+      "files": [
+        {
+          "src": "C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\VREXP\\extra\\mycardboard1\\sdk\\unity\\xr_unity_plugin\\cardboard_xr_unity.cc",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\VREXP\\extra\\mycardboard1\\sdk\\build\\intermediates\\cmake\\release\\obj\\arm64-v8a\\libcardboard_xr_unity.so",
+      "runtimeFiles": []
+    },
+    "cardboard_unity_jni-Release-arm64-v8a": {
+      "buildCommand": "C:\\Users\\matth\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\VREXP\\extra\\mycardboard1\\sdk\\.cxx\\cmake\\release\\arm64-v8a\" cardboard_unity_jni",
+      "buildType": "release",
+      "toolchain": "3490377905",
+      "abi": "arm64-v8a",
+      "artifactName": "cardboard_unity_jni",
+      "files": [
+        {
+          "src": "C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\VREXP\\extra\\mycardboard1\\sdk\\unity\\android\\unity_jni.cc",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\VREXP\\extra\\mycardboard1\\sdk\\build\\intermediates\\cmake\\release\\obj\\arm64-v8a\\libcardboard_unity_jni.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "3490377905": {
+      "cppCompilerExecutable": "C:\\Users\\matth\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cc"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "buildFiles": [
+    "C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\mycardboard\\sdk\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\matth\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\mycardboard\\sdk\\.externalNativeBuild\\cmake\\release\\arm64-v8a --target clean"
+  ],
+  "libraries": {
+    "cardboard_api-Release-arm64-v8a": {
+      "artifactName": "cardboard_api",
+      "buildCommand": "C:\\Users\\matth\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\mycardboard\\sdk\\.externalNativeBuild\\cmake\\release\\arm64-v8a --target cardboard_api",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\mycardboard\\sdk\\build\\intermediates\\cmake\\release\\obj\\arm64-v8a\\libcardboard_api.so"
+    },
+    "cardboard_xr_unity-Release-arm64-v8a": {
+      "artifactName": "cardboard_xr_unity",
+      "buildCommand": "C:\\Users\\matth\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\mycardboard\\sdk\\.externalNativeBuild\\cmake\\release\\arm64-v8a --target cardboard_xr_unity",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\mycardboard\\sdk\\build\\intermediates\\cmake\\release\\obj\\arm64-v8a\\libcardboard_xr_unity.so"
+    },
+    "cardboard_unity_jni-Release-arm64-v8a": {
+      "artifactName": "cardboard_unity_jni",
+      "buildCommand": "C:\\Users\\matth\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\mycardboard\\sdk\\.externalNativeBuild\\cmake\\release\\arm64-v8a --target cardboard_unity_jni",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\mycardboard\\sdk\\build\\intermediates\\cmake\\release\\obj\\arm64-v8a\\libcardboard_unity_jni.so"
+    }
+  }
+}

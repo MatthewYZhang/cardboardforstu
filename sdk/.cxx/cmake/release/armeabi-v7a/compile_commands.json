@@ -1,0 +1,169 @@
+[
+{
+  "directory": "C:/Users/matth/Documents/Undergraduates/Y2S3/VREXP/extra/mycardboard1/sdk/.cxx/cmake/release/armeabi-v7a",
+  "command": "C:\\Users\\matth\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi19 --gcc-toolchain=C:/Users/matth/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/matth/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_xr_unity_EXPORTS -I../../../../.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\cardboard_xr_unity.dir\\unity\\xr_unity_plugin\\cardboard_xr_unity.cc.o -c C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\VREXP\\extra\\mycardboard1\\sdk\\unity\\xr_unity_plugin\\cardboard_xr_unity.cc",
+  "file": "C:/Users/matth/Documents/Undergraduates/Y2S3/VREXP/extra/mycardboard1/sdk/unity/xr_unity_plugin/cardboard_xr_unity.cc"
+},
+
+{
+  "directory": "C:/Users/matth/Documents/Undergraduates/Y2S3/VREXP/extra/mycardboard1/sdk/.cxx/cmake/release/armeabi-v7a",
+  "command": "C:\\Users\\matth\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi19 --gcc-toolchain=C:/Users/matth/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/matth/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_api_EXPORTS -I../../../../. -I/libprotobuf/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\cardboard_api.dir\\qrcode\\cardboard_v1\\cardboard_v1.cc.o -c C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\VREXP\\extra\\mycardboard1\\sdk\\qrcode\\cardboard_v1\\cardboard_v1.cc",
+  "file": "C:/Users/matth/Documents/Undergraduates/Y2S3/VREXP/extra/mycardboard1/sdk/qrcode/cardboard_v1/cardboard_v1.cc"
+},
+
+{
+  "directory": "C:/Users/matth/Documents/Undergraduates/Y2S3/VREXP/extra/mycardboard1/sdk/.cxx/cmake/release/armeabi-v7a",
+  "command": "C:\\Users\\matth\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi19 --gcc-toolchain=C:/Users/matth/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/matth/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_api_EXPORTS -I../../../../. -I/libprotobuf/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\cardboard_api.dir\\cardboard.cc.o -c C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\VREXP\\extra\\mycardboard1\\sdk\\cardboard.cc",
+  "file": "C:/Users/matth/Documents/Undergraduates/Y2S3/VREXP/extra/mycardboard1/sdk/cardboard.cc"
+},
+
+{
+  "directory": "C:/Users/matth/Documents/Undergraduates/Y2S3/VREXP/extra/mycardboard1/sdk/.cxx/cmake/release/armeabi-v7a",
+  "command": "C:\\Users\\matth\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi19 --gcc-toolchain=C:/Users/matth/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/matth/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_api_EXPORTS -I../../../../. -I/libprotobuf/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\cardboard_api.dir\\distortion_mesh.cc.o -c C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\VREXP\\extra\\mycardboard1\\sdk\\distortion_mesh.cc",
+  "file": "C:/Users/matth/Documents/Undergraduates/Y2S3/VREXP/extra/mycardboard1/sdk/distortion_mesh.cc"
+},
+
+{
+  "directory": "C:/Users/matth/Documents/Undergraduates/Y2S3/VREXP/extra/mycardboard1/sdk/.cxx/cmake/release/armeabi-v7a",
+  "command": "C:\\Users\\matth\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi19 --gcc-toolchain=C:/Users/matth/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/matth/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_api_EXPORTS -I../../../../. -I/libprotobuf/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\cardboard_api.dir\\distortion_renderer.cc.o -c C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\VREXP\\extra\\mycardboard1\\sdk\\distortion_renderer.cc",
+  "file": "C:/Users/matth/Documents/Undergraduates/Y2S3/VREXP/extra/mycardboard1/sdk/distortion_renderer.cc"
+},
+
+{
+  "directory": "C:/Users/matth/Documents/Undergraduates/Y2S3/VREXP/extra/mycardboard1/sdk/.cxx/cmake/release/armeabi-v7a",
+  "command": "C:\\Users\\matth\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi19 --gcc-toolchain=C:/Users/matth/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/matth/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_api_EXPORTS -I../../../../. -I/libprotobuf/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\cardboard_api.dir\\head_tracker.cc.o -c C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\VREXP\\extra\\mycardboard1\\sdk\\head_tracker.cc",
+  "file": "C:/Users/matth/Documents/Undergraduates/Y2S3/VREXP/extra/mycardboard1/sdk/head_tracker.cc"
+},
+
+{
+  "directory": "C:/Users/matth/Documents/Undergraduates/Y2S3/VREXP/extra/mycardboard1/sdk/.cxx/cmake/release/armeabi-v7a",
+  "command": "C:\\Users\\matth\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi19 --gcc-toolchain=C:/Users/matth/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/matth/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_api_EXPORTS -I../../../../. -I/libprotobuf/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\cardboard_api.dir\\lens_distortion.cc.o -c C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\VREXP\\extra\\mycardboard1\\sdk\\lens_distortion.cc",
+  "file": "C:/Users/matth/Documents/Undergraduates/Y2S3/VREXP/extra/mycardboard1/sdk/lens_distortion.cc"
+},
+
+{
+  "directory": "C:/Users/matth/Documents/Undergraduates/Y2S3/VREXP/extra/mycardboard1/sdk/.cxx/cmake/release/armeabi-v7a",
+  "command": "C:\\Users\\matth\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi19 --gcc-toolchain=C:/Users/matth/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/matth/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_api_EXPORTS -I../../../../. -I/libprotobuf/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\cardboard_api.dir\\polynomial_radial_distortion.cc.o -c C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\VREXP\\extra\\mycardboard1\\sdk\\polynomial_radial_distortion.cc",
+  "file": "C:/Users/matth/Documents/Undergraduates/Y2S3/VREXP/extra/mycardboard1/sdk/polynomial_radial_distortion.cc"
+},
+
+{
+  "directory": "C:/Users/matth/Documents/Undergraduates/Y2S3/VREXP/extra/mycardboard1/sdk/.cxx/cmake/release/armeabi-v7a",
+  "command": "C:\\Users\\matth\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi19 --gcc-toolchain=C:/Users/matth/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/matth/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_api_EXPORTS -I../../../../. -I/libprotobuf/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\cardboard_api.dir\\sensors\\gyroscope_bias_estimator.cc.o -c C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\VREXP\\extra\\mycardboard1\\sdk\\sensors\\gyroscope_bias_estimator.cc",
+  "file": "C:/Users/matth/Documents/Undergraduates/Y2S3/VREXP/extra/mycardboard1/sdk/sensors/gyroscope_bias_estimator.cc"
+},
+
+{
+  "directory": "C:/Users/matth/Documents/Undergraduates/Y2S3/VREXP/extra/mycardboard1/sdk/.cxx/cmake/release/armeabi-v7a",
+  "command": "C:\\Users\\matth\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi19 --gcc-toolchain=C:/Users/matth/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/matth/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_api_EXPORTS -I../../../../. -I/libprotobuf/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\cardboard_api.dir\\sensors\\lowpass_filter.cc.o -c C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\VREXP\\extra\\mycardboard1\\sdk\\sensors\\lowpass_filter.cc",
+  "file": "C:/Users/matth/Documents/Undergraduates/Y2S3/VREXP/extra/mycardboard1/sdk/sensors/lowpass_filter.cc"
+},
+
+{
+  "directory": "C:/Users/matth/Documents/Undergraduates/Y2S3/VREXP/extra/mycardboard1/sdk/.cxx/cmake/release/armeabi-v7a",
+  "command": "C:\\Users\\matth\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi19 --gcc-toolchain=C:/Users/matth/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/matth/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_api_EXPORTS -I../../../../. -I/libprotobuf/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\cardboard_api.dir\\sensors\\mean_filter.cc.o -c C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\VREXP\\extra\\mycardboard1\\sdk\\sensors\\mean_filter.cc",
+  "file": "C:/Users/matth/Documents/Undergraduates/Y2S3/VREXP/extra/mycardboard1/sdk/sensors/mean_filter.cc"
+},
+
+{
+  "directory": "C:/Users/matth/Documents/Undergraduates/Y2S3/VREXP/extra/mycardboard1/sdk/.cxx/cmake/release/armeabi-v7a",
+  "command": "C:\\Users\\matth\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi19 --gcc-toolchain=C:/Users/matth/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/matth/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_api_EXPORTS -I../../../../. -I/libprotobuf/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\cardboard_api.dir\\sensors\\median_filter.cc.o -c C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\VREXP\\extra\\mycardboard1\\sdk\\sensors\\median_filter.cc",
+  "file": "C:/Users/matth/Documents/Undergraduates/Y2S3/VREXP/extra/mycardboard1/sdk/sensors/median_filter.cc"
+},
+
+{
+  "directory": "C:/Users/matth/Documents/Undergraduates/Y2S3/VREXP/extra/mycardboard1/sdk/.cxx/cmake/release/armeabi-v7a",
+  "command": "C:\\Users\\matth\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi19 --gcc-toolchain=C:/Users/matth/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/matth/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_api_EXPORTS -I../../../../. -I/libprotobuf/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\cardboard_api.dir\\sensors\\neck_model.cc.o -c C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\VREXP\\extra\\mycardboard1\\sdk\\sensors\\neck_model.cc",
+  "file": "C:/Users/matth/Documents/Undergraduates/Y2S3/VREXP/extra/mycardboard1/sdk/sensors/neck_model.cc"
+},
+
+{
+  "directory": "C:/Users/matth/Documents/Undergraduates/Y2S3/VREXP/extra/mycardboard1/sdk/.cxx/cmake/release/armeabi-v7a",
+  "command": "C:\\Users\\matth\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi19 --gcc-toolchain=C:/Users/matth/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/matth/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_api_EXPORTS -I../../../../. -I/libprotobuf/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\cardboard_api.dir\\sensors\\pose_prediction.cc.o -c C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\VREXP\\extra\\mycardboard1\\sdk\\sensors\\pose_prediction.cc",
+  "file": "C:/Users/matth/Documents/Undergraduates/Y2S3/VREXP/extra/mycardboard1/sdk/sensors/pose_prediction.cc"
+},
+
+{
+  "directory": "C:/Users/matth/Documents/Undergraduates/Y2S3/VREXP/extra/mycardboard1/sdk/.cxx/cmake/release/armeabi-v7a",
+  "command": "C:\\Users\\matth\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi19 --gcc-toolchain=C:/Users/matth/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/matth/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_api_EXPORTS -I../../../../. -I/libprotobuf/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\cardboard_api.dir\\sensors\\sensor_fusion_ekf.cc.o -c C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\VREXP\\extra\\mycardboard1\\sdk\\sensors\\sensor_fusion_ekf.cc",
+  "file": "C:/Users/matth/Documents/Undergraduates/Y2S3/VREXP/extra/mycardboard1/sdk/sensors/sensor_fusion_ekf.cc"
+},
+
+{
+  "directory": "C:/Users/matth/Documents/Undergraduates/Y2S3/VREXP/extra/mycardboard1/sdk/.cxx/cmake/release/armeabi-v7a",
+  "command": "C:\\Users\\matth\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi19 --gcc-toolchain=C:/Users/matth/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/matth/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_api_EXPORTS -I../../../../. -I/libprotobuf/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\cardboard_api.dir\\sensors\\android\\device_accelerometer_sensor.cc.o -c C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\VREXP\\extra\\mycardboard1\\sdk\\sensors\\android\\device_accelerometer_sensor.cc",
+  "file": "C:/Users/matth/Documents/Undergraduates/Y2S3/VREXP/extra/mycardboard1/sdk/sensors/android/device_accelerometer_sensor.cc"
+},
+
+{
+  "directory": "C:/Users/matth/Documents/Undergraduates/Y2S3/VREXP/extra/mycardboard1/sdk/.cxx/cmake/release/armeabi-v7a",
+  "command": "C:\\Users\\matth\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi19 --gcc-toolchain=C:/Users/matth/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/matth/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_api_EXPORTS -I../../../../. -I/libprotobuf/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\cardboard_api.dir\\sensors\\android\\device_gyroscope_sensor.cc.o -c C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\VREXP\\extra\\mycardboard1\\sdk\\sensors\\android\\device_gyroscope_sensor.cc",
+  "file": "C:/Users/matth/Documents/Undergraduates/Y2S3/VREXP/extra/mycardboard1/sdk/sensors/android/device_gyroscope_sensor.cc"
+},
+
+{
+  "directory": "C:/Users/matth/Documents/Undergraduates/Y2S3/VREXP/extra/mycardboard1/sdk/.cxx/cmake/release/armeabi-v7a",
+  "command": "C:\\Users\\matth\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi19 --gcc-toolchain=C:/Users/matth/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/matth/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_api_EXPORTS -I../../../../. -I/libprotobuf/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\cardboard_api.dir\\sensors\\android\\sensor_event_producer.cc.o -c C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\VREXP\\extra\\mycardboard1\\sdk\\sensors\\android\\sensor_event_producer.cc",
+  "file": "C:/Users/matth/Documents/Undergraduates/Y2S3/VREXP/extra/mycardboard1/sdk/sensors/android/sensor_event_producer.cc"
+},
+
+{
+  "directory": "C:/Users/matth/Documents/Undergraduates/Y2S3/VREXP/extra/mycardboard1/sdk/.cxx/cmake/release/armeabi-v7a",
+  "command": "C:\\Users\\matth\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi19 --gcc-toolchain=C:/Users/matth/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/matth/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_api_EXPORTS -I../../../../. -I/libprotobuf/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\cardboard_api.dir\\jni_utils\\android\\jni_utils.cc.o -c C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\VREXP\\extra\\mycardboard1\\sdk\\jni_utils\\android\\jni_utils.cc",
+  "file": "C:/Users/matth/Documents/Undergraduates/Y2S3/VREXP/extra/mycardboard1/sdk/jni_utils/android/jni_utils.cc"
+},
+
+{
+  "directory": "C:/Users/matth/Documents/Undergraduates/Y2S3/VREXP/extra/mycardboard1/sdk/.cxx/cmake/release/armeabi-v7a",
+  "command": "C:\\Users\\matth\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi19 --gcc-toolchain=C:/Users/matth/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/matth/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_api_EXPORTS -I../../../../. -I/libprotobuf/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\cardboard_api.dir\\util\\matrix_3x3.cc.o -c C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\VREXP\\extra\\mycardboard1\\sdk\\util\\matrix_3x3.cc",
+  "file": "C:/Users/matth/Documents/Undergraduates/Y2S3/VREXP/extra/mycardboard1/sdk/util/matrix_3x3.cc"
+},
+
+{
+  "directory": "C:/Users/matth/Documents/Undergraduates/Y2S3/VREXP/extra/mycardboard1/sdk/.cxx/cmake/release/armeabi-v7a",
+  "command": "C:\\Users\\matth\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi19 --gcc-toolchain=C:/Users/matth/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/matth/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_api_EXPORTS -I../../../../. -I/libprotobuf/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\cardboard_api.dir\\util\\matrix_4x4.cc.o -c C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\VREXP\\extra\\mycardboard1\\sdk\\util\\matrix_4x4.cc",
+  "file": "C:/Users/matth/Documents/Undergraduates/Y2S3/VREXP/extra/mycardboard1/sdk/util/matrix_4x4.cc"
+},
+
+{
+  "directory": "C:/Users/matth/Documents/Undergraduates/Y2S3/VREXP/extra/mycardboard1/sdk/.cxx/cmake/release/armeabi-v7a",
+  "command": "C:\\Users\\matth\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi19 --gcc-toolchain=C:/Users/matth/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/matth/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_api_EXPORTS -I../../../../. -I/libprotobuf/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\cardboard_api.dir\\util\\matrixutils.cc.o -c C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\VREXP\\extra\\mycardboard1\\sdk\\util\\matrixutils.cc",
+  "file": "C:/Users/matth/Documents/Undergraduates/Y2S3/VREXP/extra/mycardboard1/sdk/util/matrixutils.cc"
+},
+
+{
+  "directory": "C:/Users/matth/Documents/Undergraduates/Y2S3/VREXP/extra/mycardboard1/sdk/.cxx/cmake/release/armeabi-v7a",
+  "command": "C:\\Users\\matth\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi19 --gcc-toolchain=C:/Users/matth/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/matth/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_api_EXPORTS -I../../../../. -I/libprotobuf/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\cardboard_api.dir\\util\\rotation.cc.o -c C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\VREXP\\extra\\mycardboard1\\sdk\\util\\rotation.cc",
+  "file": "C:/Users/matth/Documents/Undergraduates/Y2S3/VREXP/extra/mycardboard1/sdk/util/rotation.cc"
+},
+
+{
+  "directory": "C:/Users/matth/Documents/Undergraduates/Y2S3/VREXP/extra/mycardboard1/sdk/.cxx/cmake/release/armeabi-v7a",
+  "command": "C:\\Users\\matth\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi19 --gcc-toolchain=C:/Users/matth/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/matth/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_api_EXPORTS -I../../../../. -I/libprotobuf/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\cardboard_api.dir\\util\\vectorutils.cc.o -c C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\VREXP\\extra\\mycardboard1\\sdk\\util\\vectorutils.cc",
+  "file": "C:/Users/matth/Documents/Undergraduates/Y2S3/VREXP/extra/mycardboard1/sdk/util/vectorutils.cc"
+},
+
+{
+  "directory": "C:/Users/matth/Documents/Undergraduates/Y2S3/VREXP/extra/mycardboard1/sdk/.cxx/cmake/release/armeabi-v7a",
+  "command": "C:\\Users\\matth\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi19 --gcc-toolchain=C:/Users/matth/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/matth/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_api_EXPORTS -I../../../../. -I/libprotobuf/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\cardboard_api.dir\\qrcode\\android\\qr_code.cc.o -c C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\VREXP\\extra\\mycardboard1\\sdk\\qrcode\\android\\qr_code.cc",
+  "file": "C:/Users/matth/Documents/Undergraduates/Y2S3/VREXP/extra/mycardboard1/sdk/qrcode/android/qr_code.cc"
+},
+
+{
+  "directory": "C:/Users/matth/Documents/Undergraduates/Y2S3/VREXP/extra/mycardboard1/sdk/.cxx/cmake/release/armeabi-v7a",
+  "command": "C:\\Users\\matth\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi19 --gcc-toolchain=C:/Users/matth/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/matth/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_api_EXPORTS -I../../../../. -I/libprotobuf/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\cardboard_api.dir\\screen_params\\android\\screen_params.cc.o -c C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\VREXP\\extra\\mycardboard1\\sdk\\screen_params\\android\\screen_params.cc",
+  "file": "C:/Users/matth/Documents/Undergraduates/Y2S3/VREXP/extra/mycardboard1/sdk/screen_params/android/screen_params.cc"
+},
+
+{
+  "directory": "C:/Users/matth/Documents/Undergraduates/Y2S3/VREXP/extra/mycardboard1/sdk/.cxx/cmake/release/armeabi-v7a",
+  "command": "C:\\Users\\matth\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi19 --gcc-toolchain=C:/Users/matth/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/matth/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_api_EXPORTS -I../../../../. -I/libprotobuf/android/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\cardboard_api.dir\\device_params\\android\\device_params.cc.o -c C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\VREXP\\extra\\mycardboard1\\sdk\\device_params\\android\\device_params.cc",
+  "file": "C:/Users/matth/Documents/Undergraduates/Y2S3/VREXP/extra/mycardboard1/sdk/device_params/android/device_params.cc"
+},
+
+{
+  "directory": "C:/Users/matth/Documents/Undergraduates/Y2S3/VREXP/extra/mycardboard1/sdk/.cxx/cmake/release/armeabi-v7a",
+  "command": "C:\\Users\\matth\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi19 --gcc-toolchain=C:/Users/matth/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/matth/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_unity_jni_EXPORTS -I../../../../.  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\cardboard_unity_jni.dir\\unity\\android\\unity_jni.cc.o -c C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\VREXP\\extra\\mycardboard1\\sdk\\unity\\android\\unity_jni.cc",
+  "file": "C:/Users/matth/Documents/Undergraduates/Y2S3/VREXP/extra/mycardboard1/sdk/unity/android/unity_jni.cc"
+}
+]

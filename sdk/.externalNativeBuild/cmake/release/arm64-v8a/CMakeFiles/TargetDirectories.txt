@@ -1,0 +1,5 @@
+C:/Users/matth/Documents/Undergraduates/Y2S3/mycardboard/sdk/.externalNativeBuild/cmake/release/arm64-v8a/CMakeFiles/cardboard_xr_unity.dir
+C:/Users/matth/Documents/Undergraduates/Y2S3/mycardboard/sdk/.externalNativeBuild/cmake/release/arm64-v8a/CMakeFiles/cardboard_api.dir
+C:/Users/matth/Documents/Undergraduates/Y2S3/mycardboard/sdk/.externalNativeBuild/cmake/release/arm64-v8a/CMakeFiles/cardboard_unity_jni.dir
+C:/Users/matth/Documents/Undergraduates/Y2S3/mycardboard/sdk/.externalNativeBuild/cmake/release/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/matth/Documents/Undergraduates/Y2S3/mycardboard/sdk/.externalNativeBuild/cmake/release/arm64-v8a/CMakeFiles/rebuild_cache.dir

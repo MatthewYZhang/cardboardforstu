@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hellocardboard-android.iml" filepath="$PROJECT_DIR$/.idea/modules/hellocardboard-android.iml" group="mycardboard-v2/hellocardboard-android" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-653012217/mycardboard-v2.iml" filepath="$PROJECT_DIR$/.idea/modules/-653012217/mycardboard-v2.iml" group="mycardboard-v2" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1176553689/sdk.iml" filepath="$PROJECT_DIR$/.idea/modules/-1176553689/sdk.iml" group="mycardboard-v2/sdk" />
+    </modules>
+  </component>
+</project>

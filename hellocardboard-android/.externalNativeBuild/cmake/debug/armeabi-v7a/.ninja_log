@@ -1,0 +1,8 @@
+# ninja log v5
+3	574	0	CMakeFiles/cardboard_jni.dir/src/main/jni/hello_cardboard_jni.cc.o	a71e6f21a02aeb58
+1009	1135	0	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libcardboard_jni.so	c85fcf5400ab32ba
+10	1009	0	CMakeFiles/cardboard_jni.dir/src/main/jni/hello_cardboard_app.cc.o	1274c8548d252c19
+1	1201	0	CMakeFiles/cardboard_jni.dir/src/main/jni/util.cc.o	d5108410b7a4c2ba
+11	551	0	CMakeFiles/cardboard_jni.dir/src/main/jni/hello_cardboard_jni.cc.o	a71e6f21a02aeb58
+3	1032	0	CMakeFiles/cardboard_jni.dir/src/main/jni/hello_cardboard_app.cc.o	1274c8548d252c19
+1032	1163	0	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libcardboard_jni.so	c85fcf5400ab32ba

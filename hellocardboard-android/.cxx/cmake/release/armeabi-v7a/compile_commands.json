@@ -1,0 +1,19 @@
+[
+{
+  "directory": "C:/Users/matth/Documents/Undergraduates/Y2S3/VREXP/extra/mycardboard1/hellocardboard-android/.cxx/cmake/release/armeabi-v7a",
+  "command": "C:\\Users\\matth\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi19 --gcc-toolchain=C:/Users/matth/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/matth/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_jni_EXPORTS -I../../../../libraries  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\cardboard_jni.dir\\src\\main\\jni\\hello_cardboard_app.cc.o -c C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\VREXP\\extra\\mycardboard1\\hellocardboard-android\\src\\main\\jni\\hello_cardboard_app.cc",
+  "file": "C:/Users/matth/Documents/Undergraduates/Y2S3/VREXP/extra/mycardboard1/hellocardboard-android/src/main/jni/hello_cardboard_app.cc"
+},
+
+{
+  "directory": "C:/Users/matth/Documents/Undergraduates/Y2S3/VREXP/extra/mycardboard1/hellocardboard-android/.cxx/cmake/release/armeabi-v7a",
+  "command": "C:\\Users\\matth\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi19 --gcc-toolchain=C:/Users/matth/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/matth/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_jni_EXPORTS -I../../../../libraries  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\cardboard_jni.dir\\src\\main\\jni\\hello_cardboard_jni.cc.o -c C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\VREXP\\extra\\mycardboard1\\hellocardboard-android\\src\\main\\jni\\hello_cardboard_jni.cc",
+  "file": "C:/Users/matth/Documents/Undergraduates/Y2S3/VREXP/extra/mycardboard1/hellocardboard-android/src/main/jni/hello_cardboard_jni.cc"
+},
+
+{
+  "directory": "C:/Users/matth/Documents/Undergraduates/Y2S3/VREXP/extra/mycardboard1/hellocardboard-android/.cxx/cmake/release/armeabi-v7a",
+  "command": "C:\\Users\\matth\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi19 --gcc-toolchain=C:/Users/matth/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/matth/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dcardboard_jni_EXPORTS -I../../../../libraries  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++11 -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\cardboard_jni.dir\\src\\main\\jni\\util.cc.o -c C:\\Users\\matth\\Documents\\Undergraduates\\Y2S3\\VREXP\\extra\\mycardboard1\\hellocardboard-android\\src\\main\\jni\\util.cc",
+  "file": "C:/Users/matth/Documents/Undergraduates/Y2S3/VREXP/extra/mycardboard1/hellocardboard-android/src/main/jni/util.cc"
+}
+]

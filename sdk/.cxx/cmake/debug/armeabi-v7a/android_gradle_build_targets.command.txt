@@ -1,0 +1,9 @@
+Executable : C:\Users\matth\AppData\Local\Android\Sdk\cmake\3.10.2.4988404\bin\ninja.exe
+arguments : 
+-C
+C:\Users\matth\Documents\Undergraduates\Y2S3\VREXP\extra\mycardboard1\sdk\.cxx\cmake\debug\armeabi-v7a
+cardboard_api
+cardboard_unity_jni
+cardboard_xr_unity
+jvmArgs : 
+
